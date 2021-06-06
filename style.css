@@ -59,9 +59,9 @@ a {
   display: table;}
 
   .citation {
-    margin-top: 50px;
-      margin-bottom:50px;
-    
+    margin-top: 30px;
+      margin-bottom:30px;
+    text-align: center;
   }
   
 
