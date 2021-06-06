@@ -10,8 +10,8 @@ body {
 }
 
 a {
-  color: rgb(240,240,240);
-  font-weight: bold;
+  color: black;
+  
   
   }
 
@@ -25,4 +25,9 @@ a {
 
 .journaliste {
   font-size: 14pt
+}
+
+.titre2 {
+  font-size: 16pt;
+    font-weight: bold
 }
