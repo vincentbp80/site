@@ -27,7 +27,18 @@ a {
   font-size: 16pt
 }
 
+.contact{
+  text-align: center;
+}
+
 .titre2 {
   font-size: 16pt;
     font-weight: bold
+}
+
+.twitter-timeline {
+  max-width:40px;
+  max-height:500px
+  
+      
 }
