@@ -13,5 +13,16 @@ a {
   color: rgb(240,240,240);
   font-weight: bold;
   
-  
+  }
+
+.nom {
+  text-align: center;
+}
+
+.vincent {
+  font-size: 16pt
+}
+
+.journaliste {
+  font-size: 14pt
 }
