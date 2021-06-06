@@ -45,17 +45,27 @@ a {
   text-align: center;
 }
 
-.imageslivres{
-  width: 90%;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 40px;
-    margin-bottom: 40px;
+
+      
+.column {
+  float: left;
+  width: 40%;
+  padding: 35px;
 }
 
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+
+
+}
 .titre2 {
   font-size: 18pt;
     font-weight: bold
+      
+
 }
 
 .lead {font-size:12pt}
