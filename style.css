@@ -3,7 +3,7 @@ body {
   color: black;
   font-family:arial;
   max-width:1000px;
-  margin: 200 auto;
+  margin: 100 auto;
   padding: 100px 100px;
   line-height:1.4;
   text-align: left;
@@ -33,7 +33,12 @@ a {
 .portrait {
     width: 90%;
     max-width: 300px;
-    border-radius: 50%;
+    border-radius: 10%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+    margin-bottom: 40px;
 }
 
 .contact{
