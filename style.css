@@ -78,14 +78,15 @@ a {
 .sourcephoto {font-size: 8pt}
 
 .separateur {
-      margin-top: 20px;
-      margin-bottom:20px;
+      margin-top: 30px;
+      margin-bottom:30px;
       
   }
 .twitter-timeline {
   max-width:40px;
   max-height:500px
   
-   
-      
+       
 }
+
+.notesbas {font-size:8pt}
