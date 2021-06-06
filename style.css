@@ -23,7 +23,7 @@ a {
 }
 
 .vincent {
-  font-size: 18pt
+  font-size: 20pt
 }
 
 .journaliste {
@@ -35,9 +35,11 @@ a {
 }
 
 .titre2 {
-  font-size: 16pt;
+  font-size: 18pt;
     font-weight: bold
 }
+
+.lead {font-size:12pt}
 
 .twitter-timeline {
   max-width:40px;
