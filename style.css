@@ -30,6 +30,12 @@ a {
   font-size: 16pt
 }
 
+.portrait {
+    width: 90%;
+    max-width: 300px;
+    border-radius: 50%;
+}
+
 .contact{
   text-align: center;
 }
